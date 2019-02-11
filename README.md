@@ -1,6 +1,7 @@
 # Symfony4 Web App
 
 This is a sample responsive web app I created using Symfony4.
+![alt text](https://cdn.pbrd.co/images/I0JCTQS.png)
 
 # Software Stack:
 
@@ -14,6 +15,7 @@ This is a sample responsive web app I created using Symfony4.
 
 - VirtualBox Version: 6.0.4
 - Vagrant Version: 2.2.3
+- Symfony Version: 4.2.3
 
 # Setup Guide
 
